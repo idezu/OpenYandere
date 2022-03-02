@@ -10,7 +10,7 @@ The first download will be available when all the core features have been implem
 
 ## Building
 
-To build OpenYandere you'll need Unity 2018.1.0b2 and NET 4.6 framework.
+To build OpenYandere you'll need Unity 2018.1.0f2 and NET 4.6 framework.
 
 ## Core Features
 
